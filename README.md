@@ -8,3 +8,4 @@ In this project we create and validate an HTML form, styling it to look like the
 ## Skills Learned
 
 - HTML forms
+- Loading font from OTF file
